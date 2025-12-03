@@ -1,7 +1,11 @@
-# CI Status
+# Hexlet CI App
 
-![CI](https://github.com/ByronDakFox/hexlet-ci-app/actions/workflows/ci.yml/badge.svg)
+![Build](https://img.shields.io/github/actions/workflow/status/ByronDakFox/hexlet-ci-app/ci.yml?branch=main&label=Build&logo=githubactions&logoColor=white)
 
+Aplicación del curso de Hexlet con integración continua configurada mediante GitHub Actions.  
+Este proyecto sirve como práctica para automatizar pruebas, validaciones y despliegues.
+
+---
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
