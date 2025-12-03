@@ -1,3 +1,7 @@
+# CI Status
+
+![CI](https://github.com/ByronDakFox/hexlet-ci-app/actions/workflows/ci.yml/badge.svg)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
